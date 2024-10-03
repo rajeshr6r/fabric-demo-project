@@ -2,4 +2,4 @@
 
 1. You need a Microsoft Fabric trial subscription at the minimum to perform most of the tasks .
 2. For AI tasks you will need an Azure Account 
-3. You will also need a Finnhub API Key  <href>https://finnhub.io/<href> for extracting raw data that I am using here.
+3. You will also need a Finnhub API Key  from <href>https://finnhub.io/<href> for extracting raw data that I am using here. Alternatively I have also uploaded the raw data folder which you can use and skip this part.
